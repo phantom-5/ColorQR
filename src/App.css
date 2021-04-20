@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+#myCanvas {
+  margin-top: 5%;
+  width: 50%;
+  height: auto;
+}
+.hr2{
+  border: 1px solid green;
+}
