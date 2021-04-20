@@ -43,7 +43,7 @@ const GenPage = () => {
         }
 
         setToast('Click/Tap on Image to Save')
-        setTimeout(()=>{setToast('')},3500)
+        setTimeout(()=>{setToast('')},6000)
 
 
     }
